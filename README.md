@@ -2,8 +2,6 @@
 
 A modern, responsive business analytics dashboard that provides instant insights for local businesses including ratings, reviews, and SEO-optimized headlines.
 
-![GrowthPro Dashboard](https://via.placeholder.com/800x400/6366f1/ffffff?text=GrowthPro+Business+Dashboard)
-
 ## ✨ Features
 
 - ** Business Analytics**: Get instant ratings and review counts
