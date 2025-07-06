@@ -147,7 +147,7 @@ npm run build
 
 2. Deploy the `dist` folder to your hosting provider
 
-### Recommended Platforms
+### Platforms Used
 
 - **Vercel** - Zero config deployment
 
